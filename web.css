@@ -91,3 +91,8 @@ footer {
   padding: 20px;
   text-align: center;
 }
+
+#tripping {
+    background-color: purple !important;
+    color: white;
+}
